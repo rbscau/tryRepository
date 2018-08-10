@@ -4,4 +4,4 @@
 
 
 
-git is quick
+git is quick & simple
