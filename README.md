@@ -1,1 +1,3 @@
-#just try ,learn
+#just try ,learn 
+
+#good and then update
