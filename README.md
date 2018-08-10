@@ -6,14 +6,9 @@
 
 try to push
 
-git is quick & simple
-
-
-
-
-
-
-
+git is quick & simpl
 
 
 fffffffffffffffff
+
+ssssssssssssssssssss
